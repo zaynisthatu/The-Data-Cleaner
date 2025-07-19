@@ -1,0 +1,18 @@
+Name,Address,Phone,City,Age,Data_Quality_Score,Data_Quality_Percentage
+Ali Khan,Street 123,030-0123-4567,Karachi,30,5,100.0
+Ahmed,Lane 456,033-3987-6543,Lahore,Unknown,4,80.0
+Sara,Address Not Provided,034-5112-2334,Islamabad,25,4,80.0
+Faiza Khan,Block A,009-2301-5678901,Peshawar,40,5,100.0
+Usman,Main Road,032-1987-6543,Quetta,35,5,100.0
+Aisha,Address Not Provided,030-0000-0000,Rawalpindi,Unknown,3,60.0
+Kamran,Sector B,0334-5551-212,Faisalabad,50,5,100.0
+Zainab,Gulshan,030-0111-2233,Multan,28,5,100.0
+Unknown,Address Not Provided,030-0444-5555,Sialkot,Unknown,2,40.0
+Imran,Defence,No Phone,Hyderabad,Unknown,3,60.0
+Mona,Dha,031-2345-6789,Lahore,33,5,100.0
+Haris,Street 789,030-0123-4567,Karachi,29,5,100.0
+Unknown,Plot 1,033-3777-8888,Islamabad,Unknown,3,60.0
+Nida,F-7,030-0999-8888,Islamabad,22,5,100.0
+Omer,G-9,No Phone,Rawalpindi,38,4,80.0
+Hina,Johar Town,032-2123-4567,Lahore,Unknown,4,80.0
+Jawad,Bahria Town,034-0987-6543,Rawalpindi,45,5,100.0
